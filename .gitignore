@@ -20,4 +20,46 @@ rad.json
 *.bclicense
 *.flf
 #Test results file
-TestResults.xml
+TestResults.xml<section class="products">
+    <h2>General Store Items</h2>
+
+    <div class="product-list">
+
+        <div class="product">
+            <h3>🍚 Rice</h3>
+            <p>Price: ₹60 / Kg</p>
+            <button>Add to Cart</button>
+        </div>
+
+        <div class="product">
+            <h3>🌾 Wheat</h3>
+            <p>Price: ₹40 / Kg</p>
+            <button>Add to Cart</button>
+        </div>
+
+        <div class="product">
+            <h3>🍬 Sugar</h3>
+            <p>Price: ₹45 / Kg</p>
+            <button>Add to Cart</button>
+        </div>
+
+        <div class="product">
+            <h3>🧂 Salt</h3>
+            <p>Price: ₹25 / Kg</p>
+            <button>Add to Cart</button>
+        </div>
+
+        <div class="product">
+            <h3>🫗 Cooking Oil</h3>
+            <p>Price: ₹130 / Litre</p>
+            <button>Add to Cart</button>
+        </div>
+
+        <div class="product">
+            <h3>🧼 Soap</h3>
+            <p>Price: ₹35</p>
+            <button>Add to Cart</button>
+        </div>
+
+    </div>
+</section>
